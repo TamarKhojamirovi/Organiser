@@ -1,4 +1,0 @@
-As we are always using AXSID (we were not using it only for 'Wasps' skin), removed
-- Removed `useAXSID` flag from skin config
-- Removed unnecessary checks of `useAXSID` flag
-- Removed logic which worked only when `useAXSID` flag was off
